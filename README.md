@@ -1,0 +1,1 @@
+# Knowledge-Distillation-Stanford40-and-CIFAR100
